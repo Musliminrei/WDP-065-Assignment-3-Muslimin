@@ -1,0 +1,73 @@
+body{
+    background-color: #DBDFEA;
+}
+.container{
+    width: 95%;
+    margin: auto;
+    background-color:#526D82;
+    padding: 3%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #464949;
+    margin-top: 2%;
+    
+
+}
+
+.card{
+    color: navy;
+    max-width:flex;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 0px 10px #e6d114;
+    margin-bottom: 20px;
+    margin-top: 20%;
+    text-align: flex;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.card-negara{
+    text-align: center;
+    height: min-content;
+    position: center;
+    font-size: xx-large;
+    color:whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.container1{
+    width: 95%;
+    text-align: center;
+    margin-bottom: 2%;
+    color: #526D82;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-title{
+    text-align: flex;
+    font-size:small;
+    color: #526D82;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#input-negara{
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid aqua;
+    border-radius: 5px;
+}
+
+#btn-change {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #btn-change:hover {
+    background-color: navy;
+  }
